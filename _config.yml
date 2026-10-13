@@ -67,3 +67,7 @@ exclude:
 remote_theme: sylhare/Type-on-Strap                     # If using as a remote_theme in github
 
 katex: true
+
+sass:
+  quiet_deps: true
+  silence_deprecations: ["import"]
