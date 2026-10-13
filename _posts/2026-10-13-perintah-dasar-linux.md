@@ -3,6 +3,9 @@ layout: post
 title: "Perintah Dasar Linux yang Wajib Dikuasai"
 subtitle: "Panduan navigasi CLI untuk pemula dan anak jaringan"
 tags: [linux, terminal, cli, debian]
+feature-img: "assets/img/feature-img/linux-cli.jpg"              # [Opt] Add a feature-image to the post
+thumbnail: "assets/img/thumbnails/feature-img/linux-cli.jpg"  # [Opt] Add a thumbnail image on blog view
+author: danne
 ---
 
 Dalam dunia Teknik Komputer dan Jaringan, menguasai sistem operasi Linux adalah sebuah keharusan. Entah itu saat mengkonfigurasi server berbasis Debian, menjalankan *environment* pengembangan web di WSL (Windows Subsystem for Linux), atau bahkan ngoprek server *voip* lokal menggunakan Termux di Android, semuanya bermuara pada satu hal: *Command Line Interface* (CLI).

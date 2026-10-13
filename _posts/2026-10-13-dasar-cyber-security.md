@@ -1,8 +1,11 @@
 ---
 layout: post
-title: "Keamanan Jaringan 101: Langkah Pertama Mengamankan Server"
+title: "Praktik Dasar Keamanan Jaringan"
 subtitle: "Praktik dasar cyber security untuk SysAdmin dan Network Engineer"
 tags: [cybersecurity, linux, jaringan, server, mikrotik]
+feature-img: "assets/img/feature-img/cyber.jpg"              # [Opt] Add a feature-image to the post
+thumbnail: "assets/img/thumbnails/feature-img/cyber.jpg"  # [Opt] Add a thumbnail image on blog view
+author: danne
 ---
 
 Setelah berhasil melakukan instalasi sistem operasi pada server (seperti Debian atau Ubuntu) atau mengkonfigurasi *router* ke jaringan publik, pekerjaan kita sebenarnya belum selesai. Ancaman *cyber security* seperti serangan *brute-force*, pemindaian *port* otomatis (*port scanning*), hingga eksploitasi celah keamanan mengintai setiap detik.

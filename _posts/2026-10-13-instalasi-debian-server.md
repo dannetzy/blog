@@ -3,6 +3,9 @@ layout: post
 title: "Panduan Instalasi Debian Server untuk Pemula"
 subtitle: "Langkah-langkah membangun server Linux dari nol menggunakan Debian"
 tags: [linux, debian, server, sysadmin]
+feature-img: "assets/img/feature-img/debian.png"              # [Opt] Add a feature-image to the post
+thumbnail: "assets/img/thumbnails/feature-img/debian.png"  # [Opt] Add a thumbnail image on blog view
+author: danne
 ---
 
 Sebagai anak Teknik Komputer dan Jaringan, membangun server sendiri adalah keterampilan dasar yang wajib dikuasai. Debian sering menjadi pilihan utama untuk *server* karena stabilitasnya yang luar biasa, sifatnya yang *open-source*, dan fakta bahwa ia adalah induk dari distribusi populer lainnya seperti Ubuntu.
